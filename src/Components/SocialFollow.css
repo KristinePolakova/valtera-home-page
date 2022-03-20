@@ -1,0 +1,17 @@
+.footer {
+    background-color: #fff!important;
+    min-height: 6vh;
+}
+
+  a.facebook {
+    color:rgba(92, 92, 92, 0.892)!important;
+  }
+  a.instagram {
+    color:rgba(92, 92, 92, 0.892)!important;
+  }
+  a.flickr {
+    color:rgba(92, 92, 92, 0.892)!important;
+  }
+  a.social:hover {
+    color: rgb(0, 0, 0)!important;
+  }

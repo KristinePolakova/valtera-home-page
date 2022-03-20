@@ -1,0 +1,24 @@
+.font-family {
+  font-family: "Montserrat", sans-serif;
+}
+.header-nav-link {
+  color: rgba(92, 92, 92, 0.892) !important;
+}
+.header-nav-link:hover {
+  color: rgb(0, 0, 0) !important;
+}
+.logo {
+  font-size: 2rem;
+  color: rgba(92, 92, 92, 0.83) !important;
+  letter-spacing: 0.113;
+}
+.logo:hover {
+  color: rgb(0, 0, 0) !important;
+  cursor: pointer;
+}
+.header-container {
+  background-color: #fff !important;
+}
+.navbar {
+  min-height: 18vh;
+}
