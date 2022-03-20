@@ -1,0 +1,9 @@
+.aboutMe-container {
+    min-height: 64vh;
+}
+.about-me-tab {
+    color: rgba(92, 92, 92, 0.892) !important;
+  }
+.about-me-tab:hover {
+    color: rgb(0, 0, 0) !important;
+}
