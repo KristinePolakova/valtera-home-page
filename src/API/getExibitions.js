@@ -1,0 +1,115 @@
+function getExibitions() {
+  return [
+    {
+      title: "PIEDZIMIS PIEDERĪGS",
+      description: "Mēs visi esam tik atšķirīgi un tomēr tik līdzīgi.",
+      image: "/images/1.jpg",
+      longDescription:
+        " Fotoizstādē “Piedzimis piederīgs?” 20 portretos attēloti cilvēki ar garīga rakstura traucējumiem un viņu atziņas. Ar izstādi aktualizējam mūsu pārliecību, ka visi esam tik atšķirīgi un tomēr tik līdzīgi. Fotomākslinieks Valters Poļakovs. Idejas autors Pēteris Martukāns. Ventspilī, Pārventas bibliotēkā no 16. septembra līdz 8. oktobrim. Līgatnē, Zeit mākslas telpā no 1. decembra līdz 31. decembrim. Rīgā, Latvijas Nacionālajā  bibliotēkā no 18. janvāra līdz. 18. februārim. Izstāde tapusi projekta “Bērni nepiedzimst ar aizspriedumiem” ietvaros,kurš Latvijā tiek īstenots sadarbībā ar Glada Hudik teātra apvienību, Zviedrijas vēstniecību un Zviedrijas institūta finansiālu atbalstu.",
+      images: [
+        "/images/article-1-img/poster.jpeg",
+        "/images/article-1-img/authors.jpeg",
+        "/images/article-1-img/auditory.jpeg",
+        "/images/article-1-img/boy.jpeg",
+        "/images/article-1-img/auditory-3.jpeg",
+        "/images/article-1-img/girl.jpeg",
+        "/images/article-1-img/poster-boy.jpeg",
+      ],
+    },
+    {
+      title: "GUDRO SUŅU BRĪVDIENAS",
+      description:
+        "Jūrmalā foto izstāde Foto Marīna 2021, kurā piedalījās vairāk kā desmit Latvijas fotoklubi.",
+      image: "/images/gudro-sunu/izstades-foto/balts-smaida.jpg",
+      longDescription:
+        "3 dažādās Jūrmalas apkaimēs skatāma izstāde Foto Marīna 2021, kurā piedalās fotoklubi no dažādām Latvijas vietām. Marīnas tematikas fotofiksācijas Jūsu uzmanībai līdz pat 29.augustam - Raiņa un Aspazijas vasarnīcā, Dubultu Kultūras Kvartālā, JKC Kauguru kultūras namā. Piedalās: Fotoklubs Rīga, Fotoklubs ĀGENSKALNS, Ezerzeme-F, Liepājas Tautas foto studija Fotast, Fotostudija Aspazija, Ventspils fotoklubs Moments, Ventspils novada fotoapvienība Kursa, VFK Kaktuss, Foto klubs Divas Upes, Fotoklubs Ogre biedriem, Gailīšu pagasta fotoklubs Perspektīva.",
+      images: [
+        "/images/gudro-sunu/izstades-foto/cetri-sniega.jpg",
+        "/images/gudro-sunu/izstades-foto/melns.jpg",
+        "/images/gudro-sunu/izstades-foto/divi-egles.jpg",
+        "/images/gudro-sunu/izstades-foto/mazs-melns.jpg",
+        "/images/gudro-sunu/izstades-foto/balts-lido.jpg",
+        "/images/gudro-sunu/izstades-foto/melns-plava.jpg",
+        "/images/gudro-sunu/izstades-foto/mazs-lec.jpg",
+        "/images/gudro-sunu/izstades-foto/melns-laipa.jpg",
+        "/images/gudro-sunu/izstades-foto/mazs-saulrieta.jpg",
+        "/images/gudro-sunu/izstades-foto/saulriets.jpg",
+        "/images/gudro-sunu/izstades-foto/melns-brien.jpg",
+        "/images/gudro-sunu/izstades-foto/gul.jpg",
+        "/images/gudro-sunu/izstades-foto/melns-pupoli.jpg",
+        "/images/gudro-sunu/izstades-foto/elfa.jpg",
+        "/images/gudro-sunu/izstades-foto/melns-smiltis.jpg",
+        "/images/gudro-sunu/izstades-foto/peld.jpg",
+        "/images/gudro-sunu/izstades-foto/balts-biblioteka.jpg",
+        "/images/gudro-sunu/izstades-foto/divi-peld.jpg",
+        "/images/gudro-sunu/izstades-foto/balts-sez.jpg",
+        "/images/gudro-sunu/izstades-foto/mazs-saule.jpg",
+        "/images/gudro-sunu/izstades-foto/liga-riga.jpg",
+        "/images/gudro-sunu/izstades-foto/meza.jpg",
+        "/images/gudro-sunu/izstades-foto/melns-smaida.jpg",
+        "/images/gudro-sunu/izstades-foto/sniega.jpg",
+        "/images/gudro-sunu/izstades-foto/balts-smaida.jpg",
+        "/images/gudro-sunu/izstades-foto/skrien-meza.jpg",
+        "/images/gudro-sunu/izstades-foto/divi-skrien-meza.jpg",
+        "/images/gudro-sunu/izstades-foto/balts-sniega.jpg",
+      ],
+    },
+    {
+      title: "ATKLĀTIES NO JAUNA",
+      description:
+        "Fotokluba ĀGENSKALNS un Ventspils fotoklubs Moments kopīgā fotoizstāde.",
+      image: "/images/atklaties-no-jauna/izstades-foto/elza-zirgs.jpg",
+      longDescription:
+        "Ādažu Kultūras centrā Rīgas Fotoklubs ĀGENSKALNS un Ventspils fotoklubs Moments atklāja kopīgo fotoizstādi — Pamanīt sarkano. Fotoklubu sadarbības sākums bija pavisam vienkāršs - ventspilnieki izaicināja rīdziniekus sameklēt, pamanīt un iemūžināt sarkano. Abi fotoklubi šim izaicinājumam gatavojās nopietni - gan meklējot foto par sarkano tēmu savos arhīvos, gan radot pavisam jaunus un neredzētus darbus. Fotoizstādes atklāšana bija kā svētku diena - beidzot abi fotoklubi varēja tikties aci pret aci - iepazīties savā starpā, novērtēt fotodarbus un vienkārši izbaudīt kopā būšanu pēc tik ilga attālinātās komunikācijas laika!",
+      image1: "/images/atklaties-no-jauna/izstades-foto/krekls.jpg",
+      image2: "/images/atklaties-no-jauna/izstades-foto/koks.jpg",
+      image3: "/images/atklaties-no-jauna/izstades-foto/upe.jpg",
+      image4: "/images/atklaties-no-jauna/izstades-foto/acis.jpg",
+      image5: "/images/atklaties-no-jauna/izstades-foto/plava.jpg",
+      image6: "/images/atklaties-no-jauna/izstades-foto/anda.jpg",
+      image7: "/images/atklaties-no-jauna/izstades-foto/ziema-avots.jpg",
+      image8: "/images/atklaties-no-jauna/izstades-foto/elza-zirgs.jpg",
+      image9: "/images/atklaties-no-jauna/izstades-foto/smilga.jpg",
+      image10: "/images/atklaties-no-jauna/izstades-foto/elza-gul.jpg",
+      image11: "/images/atklaties-no-jauna/izstades-foto/lakats.jpg",
+      image12: "/images/atklaties-no-jauna/izstades-foto/zirgap-acs.jpg",
+      image13: "/images/atklaties-no-jauna/izstades-foto/smiltis-slapjs.jpg",
+      image14: "/images/atklaties-no-jauna/izstades-foto/mati.jpg",
+      image15: "/images/atklaties-no-jauna/izstades-foto/studija.jpg",
+      image16: "/images/atklaties-no-jauna/izstades-foto/rokas.jpg",
+      image17: "/images/atklaties-no-jauna/izstades-foto/veja.jpg",
+      image18: "/images/atklaties-no-jauna/izstades-foto/meza.jpg",
+      image19: "/images/atklaties-no-jauna/izstades-foto/maja.jpg",
+      image20: "/images/atklaties-no-jauna/izstades-foto/cuska.jpg",
+      image21: "/images/atklaties-no-jauna/izstades-foto/supoles.jpg",
+      image22: "/images/atklaties-no-jauna/izstades-foto/elina.tif",
+      image23: "/images/atklaties-no-jauna/izstades-foto/durvis.jpg",
+      image24: "/images/atklaties-no-jauna/izstades-foto/saknes.jpg",
+      image25: "/images/atklaties-no-jauna/izstades-foto/puce.jpg",
+      image26: "/images/atklaties-no-jauna/izstades-foto/laiva.jpg",
+      image27: "/images/atklaties-no-jauna/izstades-foto/maika.jpg",
+      image28: "/images/atklaties-no-jauna/izstades-foto/ragi.jpg",
+      image29: "/images/atklaties-no-jauna/izstades-foto/elza-zirgs.jpg",
+    },
+    {
+      title: "MĒS ESAM ŠEIT",
+    },
+    {
+      title: "IZAUGT ĢIMENĒ",
+    },
+    {
+      title: "LATVIJAS BĒRNI",
+    },
+    {
+      title: "VIENA DIENA BIBLIOTĒKAS DZĪVĒ",
+    },
+    {
+      title: "CERĪBU LAIKS",
+    },
+    {
+      title: "VIŅA",
+    },
+  ]
+}
+
+export default getExibitions
