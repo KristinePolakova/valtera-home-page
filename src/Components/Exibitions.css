@@ -2,7 +2,7 @@
   color: rgba(92, 92, 92, 0.892) !important;
   text-decoration: none;
 }
-@media (min-width: 320px) {
+/* @media (min-width: 320px) {
   .exibition-images {
     width: 10rem ;
     height: 10rem ;
@@ -51,6 +51,7 @@
     object-fit: cover;
   }
 }
+
 @media (min-width: 1025px) {
   .exibition-images {
     width: 30vh;
@@ -63,6 +64,7 @@
     object-fit: cover;
   }
 }
+
 @media (min-width: 1281px) {
   .exibition-images {
     width: 30vh;
@@ -75,9 +77,127 @@
     object-fit: cover;
   }
   .exibitions-container{
-    max-width: 1140px;
+    max-width: 1000px;
   }
 }
 @media (min-width: 1281px) {
+
+} 
+*/
+
+
+
+/* 
+@media (min-width: 320px) {
+  .exibition-images {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+  }
+}
+@media (min-width: 481px) {
+  .exibition-images {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+  }
+}
+@media (min-width: 481px) {
+  .exibition-images {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+  }
+}
+@media (min-width: 641px) {
+  .exibition-images {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+  }
+}
+@media (min-width: 1281px) {
+  .exibition-images {
+    width: 28rem;
+    height: 28rem;
+    object-fit: cover;
+  }
+}
+@media (max-width: 820px) {
+  .exibition-images {
+    width: 20rem;
+    height: 20rem;
+    object-fit: cover;
+  }
+}
+@media (min-height: 600px) {
+  .exibition-images {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+  }
+} */
+
+@media (min-width: 300px) {
+  .exibition-images {
+    width: 100%;
+    height: 22vh;
+    object-fit: cover;
+  }
+}
+@media (min-width: 400px) {
+  .exibition-images {
+    width: 100%;
+    height: 22vh;
+    object-fit: cover;
+  }
+}
+@media (min-width: 500px) {
+  .exibition-images {
+    width: 100%;
+    height: 27vh;
+    object-fit: cover;
+  }
+}
+@media (min-width: 576px) {
+  .exibition-images {
+    width: 100%;
+    height: 27vh;
+    object-fit: cover;
+  }
+}
+@media (min-width: 768px) {
+  .exibition-images {
+    width: 100%;
+    height: 30vh;
+    object-fit: cover;
+  }
+}
+@media (min-width: 960px) {
+  .exibition-images {
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+  }
+}
+@media (min-width: 1200px) {
+  .exibition-images {
+    width: 100%;
+    height: 34vh;
+    object-fit: cover;
+  }
   
+}
+@media (min-width: 1400px) {
+  .exibition-images {
+    width: 100%;
+    height: 35vh;
+    object-fit: cover;
+  }
+  
+}
+@media (max-height: 800px){
+  .exibition-container {
+    max-width: 900px;
+  }
 }

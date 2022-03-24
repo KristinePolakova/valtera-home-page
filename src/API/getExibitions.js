@@ -138,9 +138,10 @@ function getExibitions() {
         "/images/atklaties-no-jauna/izstades-foto/046A237011.jpg",
         "/images/atklaties-no-jauna/izstades-foto/046A7470111 copy.jpg",
         "/images/atklaties-no-jauna/izstades-foto/046A6374131313.jpg",
-        "/images/atklaties-no-jauna/izstades-foto/464611gdruka .jpg",
+        "/images/atklaties-no-jauna/izstades-foto/464611gdruka_.jpg",
         "/images/atklaties-no-jauna/izstades-foto/IMG_1867.jpg",
         "/images/atklaties-no-jauna/izstades-foto/IMG_19781ew.jpg",
+        "/images/atklaties-no-jauna/izstades-foto/20111106-IMG_401845112 druka.jpg",
       ],
     },
     {

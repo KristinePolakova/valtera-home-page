@@ -7,9 +7,9 @@ function Exibition() {
   const exibition = getExibitionByIndex(index)
   const exibitionImages = exibition.images.map((exibition, index) => {
         return (
-          <div className="col-md-4 py-3" key={index}>
+          <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-6 py-3" key={index}>
             <a data-fancybox href={exibition}>
-              <img src={exibition} className="img-fluid exibition-images" alt="" />
+              <img src={exibition} className="img-fluid exibition-images" alt=""/>
             </a>
           </div>
         )
@@ -17,8 +17,8 @@ function Exibition() {
 
 
   return (
-    <div className="container">
-      <div className="row row-cols-2 row-cols-md-3">
+    <div className="container exibition-container">
+      <div className="row justify-content-center">
           {exibitionImages}
      
          
