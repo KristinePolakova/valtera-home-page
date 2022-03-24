@@ -74,4 +74,10 @@
     height: 30vh;
     object-fit: cover;
   }
+  .exibitions-container{
+    max-width: 1140px;
+  }
+}
+@media (min-width: 1281px) {
+  
 }

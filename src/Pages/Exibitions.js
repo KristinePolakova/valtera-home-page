@@ -20,7 +20,7 @@ function Exibitions() {
 
           <Link className="linkDecoration" to={`/exibitions/${index}`}>
             <div className="card-body ">
-              <h6 className="card-title text-center" style={{height: "1vh"}}>{exibiton.title}</h6>
+              <h6 className="card-title text-start">{exibiton.title}</h6>
             </div>
           </Link>
         </div>
