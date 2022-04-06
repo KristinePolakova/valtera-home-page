@@ -1,7 +1,6 @@
 import { Route, Routes } from "react-router"
 import Exibitions from "../Pages/Exibitions"
 import Home from "../Pages/Home"
-import Photo from "../Pages/Photo"
 import Books from "../Pages/Books"
 import Offers from "../Pages/Offers"
 import PhotoSessions from "../Pages/PhotoSessions"
@@ -12,6 +11,8 @@ import Curator from "../Pages/Curator"
 import Mentoring from "../Pages/Mentoring"
 import PhotoClub from "../Pages/PhotoClub"
 import Exibition from "../Pages/Exibition"
+import PhotoAlbums from "../Pages/PhotoAlbums"
+import PhotoAlbum from "../Pages/PhotoAlbum"
 
 function Content() {
     return (
@@ -20,7 +21,8 @@ function Content() {
           <Route path="/" element={<Home /> } />
           <Route path="/exibitions" element={<Exibitions /> } />
           <Route path="/exibitions/:index" element={<Exibition />} />
-          <Route path="/photo" element={<Photo /> } />
+          <Route path="/photo" element={<PhotoAlbums /> } />
+          <Route path="/photoAlbum/:index" element={<PhotoAlbum /> } />
           <Route path="/books" element={<Books /> } />
           <Route path="/offers" element={<Offers /> } />
           <Route path="/photoSessions" element={<PhotoSessions /> } />

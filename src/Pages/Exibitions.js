@@ -4,11 +4,10 @@ import "../Components/Exibitions.css"
 
 function Exibitions() {
   const exibitons = getExibitions()
-
   const exibitionsList = exibitons.map((exibiton, index) => {
     return (
       <div className="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 font-family px-5 " key={index}>
-        <div className="card text-white border-0 p-1 d-flex">
+        <div className="card text-white border-0 p-1 d-flex" >
           <Link to={`/exibitions/${index}`}>
             <img
               className="card-img-top exibition-poster-images"
@@ -20,7 +19,7 @@ function Exibitions() {
 
           <Link className="linkDecoration" to={`/exibitions/${index}`}>
             <div className="card-body ">
-              <h6 className="card-title text-start">{exibiton.title}</h6>
+              <h6 className="card-title text-center">{exibiton.title}</h6>
             </div>
           </Link>
         </div>
