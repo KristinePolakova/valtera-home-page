@@ -22,7 +22,7 @@ function Content() {
           <Route path="/exibitions" element={<Exibitions /> } />
           <Route path="/exibitions/:index" element={<Exibition />} />
           <Route path="/photo" element={<PhotoAlbums /> } />
-          <Route path="/photoAlbum/:index" element={<PhotoAlbum /> } />
+         <Route path="photo/:index" element={<PhotoAlbum /> } />
           <Route path="/books" element={<Books /> } />
           <Route path="/offers" element={<Offers /> } />
           <Route path="/photoSessions" element={<PhotoSessions /> } />

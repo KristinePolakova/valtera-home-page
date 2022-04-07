@@ -36,13 +36,13 @@ function Header() {
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="nav-link header-nav-link" to="/exibitions">
-                      IZSTĀDES
+                    <Link className="nav-link header-nav-link" to="/photo">
+                      FOTO
                     </Link>
                   </li>
                   <li className="nav-item">
-                    <Link className="nav-link header-nav-link" to="/photo">
-                      FOTO
+                    <Link className="nav-link header-nav-link" to="/exibitions">
+                    IZSTĀDES
                     </Link>
                   </li>
                   <li className="nav-item">
