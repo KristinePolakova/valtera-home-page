@@ -173,6 +173,86 @@ function getAlbums() {
         "/images/albumi/018/018-2.jpg",
       ],
     },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/021/001.jpg",
+      albumImages: [
+        "/images/albumi/021/001.jpg",
+        "/images/albumi/021/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/022/001.jpg",
+      albumImages: [
+        "/images/albumi/022/001.jpg",
+        "/images/albumi/022/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/023/001.jpg",
+      albumImages: [
+        "/images/albumi/023/001.jpg",
+        "/images/albumi/023/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/024/001.jpg",
+      albumImages: [
+        "/images/albumi/024/001.jpg",
+        "/images/albumi/024/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/025/001.jpg",
+      albumImages: [
+        "/images/albumi/025/001.jpg",
+        "/images/albumi/025/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/026/001.jpg",
+      albumImages: [
+        "/images/albumi/026/001.jpg",
+        "/images/albumi/026/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/027/001.jpg",
+      albumImages: [
+        "/images/albumi/027/001.jpg",
+        "/images/albumi/027/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/028/001.jpg",
+      albumImages: [
+        "/images/albumi/028/001.jpg",
+        "/images/albumi/028/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/029/001.jpg",
+      albumImages: [
+        "/images/albumi/029/001.jpg",
+        "/images/albumi/029/001-2.jpg",
+      ],
+    },
+    {
+      title: "SALĀ",
+      image: "/images/albumi/030/001.jpg",
+      albumImages: [
+        "/images/albumi/030/001.jpg",
+        "/images/albumi/030/001-2.jpg",
+      ],
+    },
   ]
 }
 
