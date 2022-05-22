@@ -1,5 +1,6 @@
 {
   "name": "valtera-home-page",
+  "homepage": "http://valterspolakovs.lv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
